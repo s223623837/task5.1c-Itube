@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">iTube</string>
+    <string name="playlist_title">My Playlist</string>
+    <string name="add_to_playlist">Add to Playlist</string>
+    <string name="remove_from_playlist">Remove from Playlist</string>
+    <string name="login_button">Login</string>
+    <string name="signup_button">Sign Up</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="create_account_button">Create Account</string>
+    <string name="youtube_url_hint">Enter YouTube URL</string>
+    <string name="play_button">Play</string>
+    <string name="add_to_playlist_button">Add to Playlist</string>
+    <string name="view_playlist_button">View My Playlist</string>
+</resources>
